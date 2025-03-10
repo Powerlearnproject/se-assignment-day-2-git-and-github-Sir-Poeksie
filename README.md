@@ -50,20 +50,20 @@ The README contributes to collaboration in the following ways:
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 **Public Repository:**
- -- Open to anyone
- -- Encourages open-source contributions
- -- Exposes Code to all, minimal or no security/privacy
- -- Normally Open-source projects or for Community-driven Development
- -- *Pros* include being great for open-source projects and visibility
- -- *Cons* include the inheriting the risk of misuse if code is sensitive
+ - Open to anyone
+ - Encourages open-source contributions
+ - Exposes Code to all, minimal or no security/privacy
+ - Normally Open-source projects or for Community-driven Development
+ - *Pros* include being great for open-source projects and visibility
+ - *Cons* include the inheriting the risk of misuse if code is sensitive
  
 **Private Repository:**
-  -- Restricted Access
-  -- Restricted/Controlled team collaboration
-  -- Protects sensitive code
-  -- Enterprise Projects or Propriety Software
-  -- *Pros* include secure and controlled collaboration.
-  -- *Cons* include limits of external contributions.
+  - Restricted Access
+  - Restricted/Controlled team collaboration
+  - Protects sensitive code
+  - Enterprise Projects or Propriety Software
+  - *Pros* include secure and controlled collaboration.
+  - *Cons* include limits of external contributions.
 
 ---
 
